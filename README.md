@@ -50,7 +50,7 @@ For any inquiries or feedback, please reach out to:
 
 - **Email**: aditya.kumar1.cs.2022@mitmeerut.ac.in
 - **GitHub**: [adityadevraj699](https://github.com/adityadevraj699)
-- **live**:[adityadevraj699]()
+- **live**:[Better Experience](https://adityadevraj699.github.io/E-commerce-website-/)
 
 ---
 
