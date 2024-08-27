@@ -1,4 +1,4 @@
-# eCommerce Website
+# E-Commerce Website
 
 Welcome to the eCommerce Website project! This project showcases a fully functional eCommerce site with a range of features including a responsive navigation bar, a product carousel, a newsletter section, and a well-designed footer. The website is built using HTML, CSS, Bootstrap, and JavaScript, and it's designed to be both user-friendly and visually appealing.
 
