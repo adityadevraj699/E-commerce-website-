@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/adityadevraj699/e-commerce-website.git
+    git clone https://github.com/adityadevraj699/E-commerce-website.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -50,6 +50,7 @@ For any inquiries or feedback, please reach out to:
 
 - **Email**: aditya.kumar1.cs.2022@mitmeerut.ac.in
 - **GitHub**: [adityadevraj699](https://github.com/adityadevraj699)
+- **live**:[adityadevraj699]()
 
 ---
 
